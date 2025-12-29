@@ -43,6 +43,8 @@ Gestor de memoria con acoplamiento termodinámico.
 - **Evaporación de Hawking**: Las páginas liberadas entran en un estado de evaporación granular antes de ser marcadas como vacías.
 
 #### 6. [Iron Dome: IoT Security](file:///home/jako/smopsys/Smopsys/iron_dome/main.py)
+<img width="623" height="634" alt="monitor2" src="https://github.com/user-attachments/assets/4f85f5ed-2194-4e78-8d01-e8fd5ec9e534" />
+
 Sistema de seguridad preventiva para el hogar basado en dinámica metripléptica.
 - **Multi-Layer Pipeline**: Detección Acústica (Firma) $\rightarrow$ Confirmación de Movimiento $\rightarrow$ Seguimiento por Visión.
 - **Target Identification**: Clasifica objetivos en ramas (Amenazas: Drones/Intrusos; Ambiente: Aves/Gatos/Perros).
